@@ -2,7 +2,7 @@
   "publisher": "pibcht",
   "name": "pack-git",
   "version": "0.0.0",
-  "engines": { "vscode": "^1.0.0" },
+  "engines": { "vscode": "^1.77.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Pi Pack • Git",
   "description": "Best extensions to improve experience with git",
@@ -15,5 +15,5 @@
   "homepage": "https://github.com/pibcht/vsce-pack-git",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-git.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-git/issues" },
-  "extensionPack": []
+  "extensionPack": [ "pibcht.pack-core" ]
 }
