@@ -12,6 +12,7 @@
     "Bundle", "Dev", "Fundamental", "Git", "Init", "Optimize", "Powertools", 
     "Productivity", "Toolbox", "Version control"
   ],
+  "galleryBanner": { "color": "#314159", "theme": "dark" },
   "homepage": "https://github.com/pibcht/vsce-pack-git",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-git.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-git/issues" },
