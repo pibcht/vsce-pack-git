@@ -3,7 +3,7 @@
   "name": "pack-git",
   "version": "1.0.0",
   "engines": { "vscode": "^1.77.0" },
-  "categories": [ "Extension Packs" ],
+  "categories": [ "Extension Packs", "SCM Providers" ],
   "displayName": "Pi Pack • Git",
   "description": "Best extensions to improve experience with git",
   "icon": "icon.png",

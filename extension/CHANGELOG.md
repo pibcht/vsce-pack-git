@@ -11,6 +11,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - .gitignore Generator [piotrpalarz.vscode-gitignore-generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator)
 
+### Changed
+
+| package.json         | path             | from      | to               |
+|----------------------|------------------|-----------|------------------|
+| Extension Categories | `categories`     | `…`       | `+SCM Providers` |
+
 ## [1.0.0]
 
 ### Added
