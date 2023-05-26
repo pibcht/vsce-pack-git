@@ -16,5 +16,8 @@
   "homepage": "https://github.com/pibcht/vsce-pack-git",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-git.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-git/issues" },
-  "extensionPack": [ "pibcht.pack-core", "piotrpalarz.vscode-gitignore-generator" ]
+  "extensionPack": [
+    "pibcht.pack-core", "piotrpalarz.vscode-gitignore-generator", 
+    "seatonjiang.gitmoji-vscode"
+  ]
 }

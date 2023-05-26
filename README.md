@@ -9,6 +9,7 @@
 - [Pi Pack • Core](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-core)
 
 - [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator)
+- [Gitmoji](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode)
 
 ### Liens
 

@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - .gitignore Generator [piotrpalarz.vscode-gitignore-generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator)
+- Gitmoji [seatonjiang.gitmoji-vscode](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode)
 
 ### Changed
 
