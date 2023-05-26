@@ -1,0 +1,23 @@
+{
+  "publisher": "pibcht",
+  "name": "pack-git",
+  "version": "1.1.0",
+  "engines": { "vscode": "^1.77.0" },
+  "categories": [ "Extension Packs", "SCM Providers" ],
+  "displayName": "Pi Pack • Git",
+  "description": "Best extensions to improve experience with git",
+  "icon": "icon.png",
+  "author": { "name": "Pi____b__ch_t", "email": "pi@bc.ht" },
+  "keywords": [
+    "Bundle", "Dev", "Fundamental", "Git", "Init", "Optimize", "Powertools", 
+    "Productivity", "Toolbox", "Version control"
+  ],
+  "galleryBanner": { "color": "#314159", "theme": "dark" },
+  "homepage": "https://github.com/pibcht/vsce-pack-git",
+  "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-git.git" },
+  "bugs": { "url": "https://github.com/pibcht/vsce-pack-git/issues" },
+  "extensionPack": [
+    "pibcht.pack-core", "felipecaputo.git-project-manager", 
+    "piotrpalarz.vscode-gitignore-generator", "seatonjiang.gitmoji-vscode"
+  ]
+}
