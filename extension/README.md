@@ -12,6 +12,10 @@ Fundamental extensions for all uses
 
 Generate .gitignore file using gitignore.io API
 
+### GitHub Pull Requests and Issues [GitHub.vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
+Pull Request and Issue Provider for GitHub
+
 ### Gitmoji [seatonjiang.gitmoji-vscode](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode)
 
 Gitmoji tool for git commit messages in VSCode
