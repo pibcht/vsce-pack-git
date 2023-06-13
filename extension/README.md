@@ -12,10 +12,6 @@ Fundamental extensions for all uses
 
 Generate .gitignore file using gitignore.io API
 
-### Git Project Manager [felipecaputo.git-project-manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
-
-Allows you to change easily between git projects.
-
 ### Gitmoji [seatonjiang.gitmoji-vscode](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode)
 
 Gitmoji tool for git commit messages in VSCode
